@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // as the app appears, display a message on the screen
-        Toast.makeText(this, "Hello from Android", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "This is branch 2", Toast.LENGTH_LONG).show()
     }
 }
